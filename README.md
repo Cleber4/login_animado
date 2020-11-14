@@ -4,7 +4,7 @@
 
 Desenvolvido no Curso Flutter Daniel Ciolfi por Cleberson Gilvan.
 
-## Sing In
+## Sign In
 ![login](images/to_readme/1.png) 
 
 ## User
